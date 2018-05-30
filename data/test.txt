@@ -1,0 +1,6 @@
+data/obj/1.jpeg
+data/obj/7.jpeg
+data/obj/8.jpeg
+data/obj/20.jpeg
+data/obj/21.jpeg
+data/obj/41.jpeg
